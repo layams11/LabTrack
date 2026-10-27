@@ -1,0 +1,6 @@
+{
+  "name": "Centralized Scientific Instrument Booking & Utilization Tracking System",
+  "description": "A centralized web application for managing scientific instruments, preventing scheduling conflicts, tracking laboratory bookings, and monitoring equipment utilization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
